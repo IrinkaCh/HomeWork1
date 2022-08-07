@@ -1,0 +1,15 @@
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task003_Multiple2\bin\Debug\net6.0\Task003_Multiple2.exe
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task003_Multiple2\bin\Debug\net6.0\Task003_Multiple2.deps.json
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task003_Multiple2\bin\Debug\net6.0\Task003_Multiple2.runtimeconfig.json
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task003_Multiple2\bin\Debug\net6.0\Task003_Multiple2.dll
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task003_Multiple2\bin\Debug\net6.0\Task003_Multiple2.pdb
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task003_Multiple2\obj\Debug\net6.0\Task003_Multiple2.csproj.AssemblyReference.cache
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task003_Multiple2\obj\Debug\net6.0\Task003_Multiple2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task003_Multiple2\obj\Debug\net6.0\Task003_Multiple2.AssemblyInfoInputs.cache
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task003_Multiple2\obj\Debug\net6.0\Task003_Multiple2.AssemblyInfo.cs
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task003_Multiple2\obj\Debug\net6.0\Task003_Multiple2.csproj.CoreCompileInputs.cache
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task003_Multiple2\obj\Debug\net6.0\Task003_Multiple2.dll
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task003_Multiple2\obj\Debug\net6.0\refint\Task003_Multiple2.dll
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task003_Multiple2\obj\Debug\net6.0\Task003_Multiple2.pdb
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task003_Multiple2\obj\Debug\net6.0\Task003_Multiple2.genruntimeconfig.cache
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task003_Multiple2\obj\Debug\net6.0\ref\Task003_Multiple2.dll
