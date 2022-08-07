@@ -1,0 +1,15 @@
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task002_MaxOf3\bin\Debug\net6.0\Task002_MaxOf3.exe
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task002_MaxOf3\bin\Debug\net6.0\Task002_MaxOf3.deps.json
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task002_MaxOf3\bin\Debug\net6.0\Task002_MaxOf3.runtimeconfig.json
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task002_MaxOf3\bin\Debug\net6.0\Task002_MaxOf3.dll
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task002_MaxOf3\bin\Debug\net6.0\Task002_MaxOf3.pdb
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task002_MaxOf3\obj\Debug\net6.0\Task002_MaxOf3.csproj.AssemblyReference.cache
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task002_MaxOf3\obj\Debug\net6.0\Task002_MaxOf3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task002_MaxOf3\obj\Debug\net6.0\Task002_MaxOf3.AssemblyInfoInputs.cache
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task002_MaxOf3\obj\Debug\net6.0\Task002_MaxOf3.AssemblyInfo.cs
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task002_MaxOf3\obj\Debug\net6.0\Task002_MaxOf3.csproj.CoreCompileInputs.cache
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task002_MaxOf3\obj\Debug\net6.0\Task002_MaxOf3.dll
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task002_MaxOf3\obj\Debug\net6.0\refint\Task002_MaxOf3.dll
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task002_MaxOf3\obj\Debug\net6.0\Task002_MaxOf3.pdb
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task002_MaxOf3\obj\Debug\net6.0\Task002_MaxOf3.genruntimeconfig.cache
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task002_MaxOf3\obj\Debug\net6.0\ref\Task002_MaxOf3.dll
