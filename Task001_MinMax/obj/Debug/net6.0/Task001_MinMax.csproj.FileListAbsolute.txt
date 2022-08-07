@@ -1,0 +1,15 @@
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task001_MinMax\bin\Debug\net6.0\Task001_MinMax.exe
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task001_MinMax\bin\Debug\net6.0\Task001_MinMax.deps.json
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task001_MinMax\bin\Debug\net6.0\Task001_MinMax.runtimeconfig.json
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task001_MinMax\bin\Debug\net6.0\Task001_MinMax.dll
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task001_MinMax\bin\Debug\net6.0\Task001_MinMax.pdb
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task001_MinMax\obj\Debug\net6.0\Task001_MinMax.csproj.AssemblyReference.cache
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task001_MinMax\obj\Debug\net6.0\Task001_MinMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task001_MinMax\obj\Debug\net6.0\Task001_MinMax.AssemblyInfoInputs.cache
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task001_MinMax\obj\Debug\net6.0\Task001_MinMax.AssemblyInfo.cs
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task001_MinMax\obj\Debug\net6.0\Task001_MinMax.csproj.CoreCompileInputs.cache
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task001_MinMax\obj\Debug\net6.0\Task001_MinMax.dll
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task001_MinMax\obj\Debug\net6.0\refint\Task001_MinMax.dll
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task001_MinMax\obj\Debug\net6.0\Task001_MinMax.pdb
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task001_MinMax\obj\Debug\net6.0\Task001_MinMax.genruntimeconfig.cache
+C:\Users\123ir\Desktop\Seminar\HomeWorks1\HomeWork1\Task001_MinMax\obj\Debug\net6.0\ref\Task001_MinMax.dll
